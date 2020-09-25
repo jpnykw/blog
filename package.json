@@ -12,9 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@types/material-ui": "^0.21.8",
     "raw-loader": "^4.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-window": "^1.8.5",
     "remark-loader": "^1.0.0",
     "remark-react": "^7.0.1"
   },

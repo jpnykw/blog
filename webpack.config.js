@@ -14,9 +14,13 @@ module.exports = {
                 test: /\.tsx?$/,
                 use: 'ts-loader'
             },
+            // {
+            //     test: /\.md$/,
+            //     use: 'remark-loader',
+            // }
             {
                 test: /\.md$/,
-                use: 'remark-loader',
+                use: 'raw-loader'
             }
         ]
     },

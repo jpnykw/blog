@@ -19,7 +19,8 @@
     "react-dom": "^16.13.1",
     "react-window": "^1.8.5",
     "remark-loader": "^1.0.0",
-    "remark-react": "^7.0.1"
+    "remark-react": "^7.0.1",
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {
     "@types/react": "^16.9.49",

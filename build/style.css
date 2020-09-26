@@ -3,3 +3,25 @@
 body {
     font-family: 'M PLUS 1p', sans-serif;
 }
+
+/* MD の装飾 */
+pre, code {
+    background: #eee;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+pre > code {
+    padding: 0;
+    border-radius: none;
+}
+
+table {
+    border-collapse: collapse;
+    border: solid 1px #888;
+}
+
+table th, table td {
+    border: solid 1px #888;
+    padding: 10px;
+}

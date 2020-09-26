@@ -4,6 +4,10 @@ body {
     font-family: 'M PLUS 1p', sans-serif;
 }
 
+#article {
+    max-width: 500px;
+}
+
 /* MD の装飾 */
 pre, code {
     background: #eee;

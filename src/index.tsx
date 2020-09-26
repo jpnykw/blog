@@ -37,7 +37,7 @@ const Main = () => {
                         setArticle={setArticle}
                     />
                 </Grid>
-                <Grid item xs={6}>
+                <Grid item xs={6} id="article">
                     <Article content={getArticle(article)} />
                 </Grid>
             </Grid>
